@@ -40,13 +40,16 @@
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
+<!--
 ➡️ [more videos...](https://youtube.com/eralmendral)
 
----
-
-<!--
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.eralmendral.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
