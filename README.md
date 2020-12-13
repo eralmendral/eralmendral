@@ -4,10 +4,12 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ## I'm a Developer, and a Lifetime student of life.
 
 - 🏢 I am currently working at Brewedlogic
-- 👨‍💻 I’m currently learning C++ and DSA
+- 👨‍💻 I’m currently learning C++, DSA & Cloud Computing
 - 💡 Fun fact: I love studying methaphysics
 
 [website]: https://ealmendral.me
