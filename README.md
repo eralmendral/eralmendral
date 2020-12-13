@@ -35,6 +35,10 @@
 <br />
 <br />
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-player-theta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 <!--
 ### 📺 Latest YouTube Videos
 
@@ -48,8 +52,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
   <img align="left" alt="eralmendral GitHub Stats" src="https://github-readme-stats.eralmendral.vercel.app/api?username=eralmendral&show_icons=true&hide_border=true" />
-
 </details>
+ -->
