@@ -8,7 +8,7 @@
 
 ## I'm a Developer, and a Lifetime student of life.
 
-- 🏢 I am currently working at Brewedlogic
+- 🏢 I am currently free to hire for dev work.
 - 👨‍💻 I’m currently learning C++, DSA & Cloud Computing
 - 💡 Fun fact: I love studying methaphysics
 
