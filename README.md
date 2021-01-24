@@ -9,7 +9,7 @@
 ## I'm a Developer, and a Lifetime student of life.
 
 - 🏢 I am currently free to hire for dev work.
-- 👨‍💻 I’m currently learning C++, DSA & Cloud Computing
+- 👨‍💻 I’m currently into DSA, WASM & Cloud Computing
 - 💡 Fun fact: I love studying methaphysics
 
 [website]: https://ealmendral.me
