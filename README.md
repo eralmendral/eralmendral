@@ -13,7 +13,7 @@
 - 💡 Fun fact: I love studying methaphysics
 --> 
 
-[website]: https://ealmendral.me
+[website]: https://ealmendral.tk
 [instagram]: https://instagram.com/eralmendral/
 [linkedin]: https://www.linkedin.com/in/eric-almendral-6a13371aa/
 
