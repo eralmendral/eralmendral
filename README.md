@@ -5,12 +5,13 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<!-- 
 ## I'm a Developer, and a Lifetime student of life.
 
 - 🏢 I am currently free to hire for dev work.
 - 👨‍💻 I’m currently into DSA, WASM & Cloud Computing
 - 💡 Fun fact: I love studying methaphysics
+--> 
 
 [website]: https://ealmendral.me
 [instagram]: https://instagram.com/eralmendral/
