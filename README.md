@@ -6,11 +6,11 @@
 
 <br />
 
-## I'm a Developer, and a Lifetime student of life.
+## I'm a Software Developer, and an ontological student.
 
-- 🏢 I am currently working at Pinzak Network.
-- 👨‍💻 I’m currently into DSA & Cloud Computing
-- 💡 Fun fact: I love studying methaphysics
+- 🏢 I am currently working as Backend Software Developer at Pinzak Network.
+- 👨‍💻 I’m currently self studying AI & Cloud Computing
+- 💡 Fun fact: I love methaphysics.
 
 
 [website]: https://eralmendral.tk
