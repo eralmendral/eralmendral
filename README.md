@@ -6,7 +6,7 @@
 
 <br />
 
-## I'm a Software Developer, and an ontological student.
+## I'm a Software Developer, and <3 Ontology.
 
 - 🏢 I am currently working as Backend Software Developer at Pinzak Network.
 - 👨‍💻 I’m currently self studying AI & Cloud Computing
