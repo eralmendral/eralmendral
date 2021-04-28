@@ -1,21 +1,9 @@
-### Hello, I am Eric - <a href="https://eralmendral.tk" target="_blank" alt="portfolio site link">eralmendral.tk</a>
+### Hello, I am Eric Almendral (:computer::beers::feelsgood:)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Website](https://img.shields.io/badge/-Website-gold?style=flat-square&logo=google&logoColor=black)](https://eralmendral.tk)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/eralmendral) [![LinkedIn](https://img.shields.io/badge/-Linkedin-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-almendral-6a13371aa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=pink)](https://instagram.com/eralmendral/) [![DEV](https://img.shields.io/badge/-Dev-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eralmendral) 
 
-<br />
-
-## I'm a Software Developer, and <3 Ontology.
-
-- 🏢 I am currently working as Backend Software Developer at Pinzak Network.
-- 👨‍💻 I’m currently self studying AI & Cloud Computing
-- 💡 Fun fact: I love methaphysics.
-
-
-[website]: https://eralmendral.tk
-[instagram]: https://instagram.com/eralmendral/
-[linkedin]: https://www.linkedin.com/in/eric-almendral-6a13371aa/
 
 <br />
 
