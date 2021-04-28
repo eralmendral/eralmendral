@@ -30,6 +30,7 @@
 
 <br />
 
+<!--
 ## 🎧 Spotify Playing
 
 [<img src="https://novatorem-kappa-lake.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
