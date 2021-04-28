@@ -1,7 +1,7 @@
-# Hello, I am Eric Almendral (:computer::beers::feelsgood:)
+# Hello, I am Eric Almendral (:computer::beers:)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&width=500&size=18&&lines=Software+Engineer;Cloud+Computing+Practitioner;Cyber+Security+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=e6a82c&width=500&size=18&&lines=Software+Engineer;Cloud+Computing+Practitioner;Cyber+Security+Practitioner)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/-Website-gold?style=flat-square&logo=google&logoColor=black)](https://eralmendral.tk)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/eralmendral) [![LinkedIn](https://img.shields.io/badge/-Linkedin-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-almendral-6a13371aa/)
@@ -22,12 +22,12 @@
 <img align="left" alt="AWS" width="26px"  style="margin: 0px 3px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Python" width="26px" style="margin: 0px 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<br />
 
-#### Doin:
+### Doin:
 -  👨‍💻 Currently working as a backend software developer.
 
-
-## :headphones: Spotify Playing
+### :headphones: Spotify Playing
 
 [<img src="https://novatorem-kappa-lake.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
