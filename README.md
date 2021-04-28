@@ -1,9 +1,11 @@
-### Hello, I am Eric Almendral (:computer::beers::feelsgood:)
+# Hello, I am Eric Almendral (:computer::beers::feelsgood:)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&width=500&size=18&&lines=Software+Engineer;Cloud+Computing+Practitioner;Cyber+Security+Practitioner)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/-Website-gold?style=flat-square&logo=google&logoColor=black)](https://eralmendral.tk)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/eralmendral) [![LinkedIn](https://img.shields.io/badge/-Linkedin-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-almendral-6a13371aa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=pink)](https://instagram.com/eralmendral/) [![DEV](https://img.shields.io/badge/-Dev-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eralmendral) 
-
 
 <br />
 
@@ -21,7 +23,9 @@
 <img align="left" alt="Python" width="26px" style="margin: 0px 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
-<br />
+
+-  👨‍💻 Currently working as a backend software developer.
+
 
 <!--### Spotify Playing 🎧
 
