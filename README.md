@@ -9,7 +9,7 @@
 
 <br />
 
-### 🛠️ Technologies:
+## 🛠️ Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -23,11 +23,14 @@
 <img align="left" alt="Python" width="26px" style="margin: 0px 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
+<br />
 
-### ✋ Doin:
+## ✋ Doin:
 -  👨‍💻 Currently working as a backend software developer.
 
-### 🎧 Spotify Playing
+<br />
+
+## 🎧 Spotify Playing
 
 [<img src="https://novatorem-kappa-lake.vercel.app/api/spotify-playing" alt="Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
