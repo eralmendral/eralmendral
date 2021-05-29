@@ -1,4 +1,4 @@
-<!-- # Hello, I am Eric Almendral (:computer::beers:)
+# Hello, I am Eric Almendral (:computer::beers:)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=e6a82c&width=500&size=18&&lines=Software+Engineer;Cloud+Computing+Practitioner;Cyber+Security+Practitioner)](https://git.io/typing-svg)
@@ -26,7 +26,7 @@
 <br />
 
 ## ✋ Doin:
--  👨‍💻 Currently working as a backend software developer.
+-  👨‍💻 Currently Job Hunting.
 
 <br />
 
