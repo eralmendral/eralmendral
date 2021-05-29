@@ -28,6 +28,7 @@
 
 ## ✋ Doin:
 -  👨‍💻 Currently Job Hunting.
+-  💻 Expanding Technical Skills Domain
 
 <br />
 
